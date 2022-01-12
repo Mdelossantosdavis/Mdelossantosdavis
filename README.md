@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mdelossantosdavis
 - 👀 I’m interested in learn all code in the world. 
 - 🌱 I’m currently learning software and create all app. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on myselft. 
 - 📫 How to reach me ...
 
 <!---
